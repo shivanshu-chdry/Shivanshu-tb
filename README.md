@@ -8,3 +8,4 @@ My name is Shivanshu
 - ⚡ Fun fact: I'm not funny...
 - 🕸  Languages I know: Python, HTML and CSS
 - 🐤 Follow me on twitter frais__01
+- 🎃 Discord - Shivanshu#6112
