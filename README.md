@@ -6,6 +6,7 @@ My name is Shivanshu
 - 📫 How to reach me: chaudharyshivanshu0109@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm not funny...
-- 🕸  Languages I know: Python, HTML and CSS
+- 🕸 Programming Languages i know: Python, HTML and CSS
 - 🐤 Follow me on twitter - @frais__01
-- 🎃 Discord - Shivanshu#6112
+- 🎃 Discord - Shivanshu#6112 
+
