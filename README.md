@@ -10,4 +10,4 @@ My name is Shivanshu
 - ⚡ Fun fact: I'm not funny...
 - 🕸 Programming Languages i know: Python, HTML and CSS
 
-![j8wo9f1mou6g5469671h](https://user-images.githubusercontent.com/83326671/182368898-06d151ec-cb89-4c35-a480-36d4ac7842ab.gif)
+
