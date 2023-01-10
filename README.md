@@ -9,7 +9,4 @@
 - ⚡ Fun fact: I'm not funny...
 - 🕸 Programming Languages i know: Python, HTML and CSS
 
-<hr>
-<p align="center">
-  <img src="https://github.com/Shivanshu-tb/Shivanshu-tb/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
