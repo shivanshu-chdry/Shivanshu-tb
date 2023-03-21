@@ -4,6 +4,7 @@
 <strong>I am hobbyist programmer, bot dev and high-schooler. Experienced in Python based programming, especially discord and pygame. Committed to consistency and finding simple solutions for complex problems.</strong>
 <br>
 <br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyshivanshu0109@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yQXTNQcyUA)
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itzz_maniac)
 
