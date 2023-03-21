@@ -1,5 +1,4 @@
-
-## Hi, I'm Shivanshu! 👋
+<summary><h2 style="display: inline-block;">Hi, I'm Shivanshu! 👋</h2></summary>
 
 ## 🚀 About Me
 <strong>I am hobbyist programmer, bot dev and high-schooler. Experienced in Python based programming, especially discord and pygame. Committed to consistency and finding simple solutions for complex problems.</strong>
