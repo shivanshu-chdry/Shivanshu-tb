@@ -24,6 +24,8 @@
   
 ## 📈Github Stats
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=shivanshu-chdry&theme=blue-green">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshu-chdry&theme=blue-green">
+   <a align="center" href="https://github.com/shivanshu-chdry">
+  <img alt="stats card" src="https://github-readme-stats.vercel.app/api?username=shivanshu-chdry&count_private=true&show_icons=true&theme=blue-green&hide_rank=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu-chdry&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="shivanshu-chdry" /></a>
+</p>
 </div>
