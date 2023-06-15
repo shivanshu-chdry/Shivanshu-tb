@@ -11,6 +11,7 @@
 ## 🛠 Languages and Tools
 <p align="center">
 <a><img src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a><img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -21,11 +22,4 @@
 <a><img src = "https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"></a>
 <a><img src = "https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"></a>
 </p>
-  
-## 📈Github Stats
-<div align="center">
-   <a align="center" href="https://github.com/shivanshu-chdry">
-  <img alt="stats card" src="https://github-readme-stats.vercel.app/api?username=shivanshu-chdry&count_private=true&show_icons=true&theme=blue-green&hide_rank=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshu-chdry&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="shivanshu-chdry" /></a>
-</p>
-</div>
+
