@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shivanshu! 👋</h1>
 
 ## 🚀 About Me
-<strong>I am hobbyist programmer, bot dev and high-schooler. Experienced in Python based programming, especially discord and pygame. Committed to consistency and finding simple solutions for complex problems.</strong>
+<strong>I am hobbyist programmer, bot dev and high-schooler. Experienced in Java and Python based programming, especially discord and pygame. Committed to consistency and finding simple solutions for complex problems.</strong>
 <br>
 <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaudharyshivanshu0109@gmail.com)
